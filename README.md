@@ -2,7 +2,7 @@
 - 👀 I’m interested in upgrading my coding skills and learning data analysis
 - 🌱 I’m currently learning at beginner levels
 - 💞️ I’m looking to collaborate on nothing yet :)
-- 😄 Pronouns: She/her
+  
   
 
 <!---
