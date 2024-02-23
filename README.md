@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kit1863
+- 👋 Hi, I’m @Kit1863  I am an English language copyeditor learning to code Python.
 - 👀 I’m interested in upgrading my coding skills and learning data analysis
 - 🌱 I’m currently learning at beginner levels
 - 💞️ I’m looking to collaborate on nothing yet :)
